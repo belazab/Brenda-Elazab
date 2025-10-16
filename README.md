@@ -24,5 +24,5 @@ Program Manager | SEO & Data Enthusiast | Building tools for efficient teams.
 
 ## 📫 Let's Connect
 - Twitter @ <a href="https://x.com/brendaelazab" rel="nofollow"> brendaelazab</a> 
-- Email @ (mailto:belazab@gmail.com)
+- Email @ belazab@gmail.com
 
