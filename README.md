@@ -13,6 +13,7 @@ Program Manager | SEO & Data Enthusiast | Building tools for efficient teams.
 ![Tableau](https://img.shields.io/badge/Tableau-E69C00?style=flat&logo=tableau&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-Certified-green?style=flat&logo=atlassian&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web%20Dev)
 
 ## 🔥 Featured Projects
 - **[SEO Audit Tool](link-to-repo)**: Python script for keyword analysis and site performance checks. *Used in client projects to boost rankings by 25%.*
