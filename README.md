@@ -17,7 +17,7 @@ Program Manager | SEO & Data Enthusiast | Building tools for efficient teams.
 
 ## 🔥 Featured Projects
 - **[SEO Audit Tool](link-to-repo)**: Python script for keyword analysis and site performance checks. *Used in client projects to boost rankings by 25%.*
-- **[Project Tracker Dashboard](link-to-repo)**: Tableau viz integrated with JIRA data for sprint insights.
+- **[Website Build](https://lotiqandatlas.com)**: Designed, built, optimized and launched life and travel blog with Ad monetization. 
 - **[Agile Workflow Automator](link-to-repo)**: GitHub Actions setup for automated testing in team repos.
 
 ## 📊 GitHub Stats
