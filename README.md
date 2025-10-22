@@ -1,6 +1,6 @@
 # # Hi, I'm Brenda 👋
 
-Program Manager | SEO & Data Enthusiast | Building tools for efficient teams.
+Program Manager | AI, SEO & Data Enthusiast | Building tools for efficient teams.
 
 ## 🚀 About Me
 - 🔭 Leading cross-functional projects in web optimization and analytics.
