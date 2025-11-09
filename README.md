@@ -16,7 +16,7 @@ Program Manager | AI, SEO & Data Enthusiast | Building tools for efficient teams
 ![Web Dev](https://img.shields.io/badge/Web%20Dev)
 
 ## 🔥 Featured Projects
-- **[Product Data Visualization](https://github.com/belazab/product-data-sets))**: Python scripts and data for sample AWS product inventory. 
+- **[Product Data Visualization](https://github.com/belazab/product-data-sets)**: Scripts and data for sample AWS product inventory. 
 - **[Website Build](https://lotiqandatlas.com)**: Designed, built, optimized and launched life and travel blog with Ad monetization. 
 
 ## 📫 Let's Connect
