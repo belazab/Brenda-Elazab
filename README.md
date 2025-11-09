@@ -16,12 +16,8 @@ Program Manager | AI, SEO & Data Enthusiast | Building tools for efficient teams
 ![Web Dev](https://img.shields.io/badge/Web%20Dev)
 
 ## 🔥 Featured Projects
-- **[SEO Audit Tool](link-to-repo)**: Python script for keyword analysis and site performance checks. *Used in client projects to boost rankings by 25%.*
+- **[Product Data Visualization](link-to-repo)**: Python scripts and data for sample AWS product inventory. 
 - **[Website Build](https://lotiqandatlas.com)**: Designed, built, optimized and launched life and travel blog with Ad monetization. 
-- **[Agile Workflow Automator](link-to-repo)**: GitHub Actions setup for automated testing in team repos.
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 - Twitter @ <a href="https://x.com/brendaelazab" rel="nofollow"> brendaelazab</a> 
