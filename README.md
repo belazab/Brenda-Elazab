@@ -18,11 +18,10 @@ AI, SEO & Data Enthusiast | Building tools for efficient teams.
 
 ## 🔥 Featured Projects
 - **[Product data visualization](https://github.com/belazab/product-data-sets)**: Scripts and data for sample AWS product inventory.
-- **[Consumer behavior dashboard](https://belazab.github.io/Brenda-Elazab/consumer_behavior_dashboard_bse.html)**: KPI dashboard with consumer behavior and funnel path insights. 
+- **[Consumer behavior dashboard](https://belazab.github.io/Brenda-Elazab/consumer_behavior_dashboard_bse.html)**: KPI dashboard with consumer behavior and funnel path insights. Source: marketing_data.csv, 500 consumers. Numbers are stored with mixed decimal separators; see the dashboard’s data note.
 
 ## 📫 Let's Connect
 - Twitter @ <a href="https://x.com/brendaelazab" rel="nofollow"> brendaelazab</a>
 - Website @ <a href="https://bse-digital.com" rel="follow"> brendaelazab</a> 
 - Email @ contact@bse-digital.com
 
-Consumer behavior dashboard added
