@@ -1,8 +1,9 @@
 # # Hi, I'm Brenda 👋
 
-Program Manager | AI, SEO & Data Enthusiast | Building tools for efficient teams.
+AI, SEO & Data Enthusiast | Building tools for efficient teams.
 
 ## 🚀 About Me
+- 🎯 Founder & SEO AI Strategy Consultant of <a href="https://bse-digital.com" rel="follow"> BSE Digital </a>
 - 🔭 Leading cross-functional projects in web optimization and analytics.
 - 🌱 Currently exploring AI for SEO & Scalable data analytics processes.
 - 💬 Ask me about Agile workflows or Tableau dashboards!
@@ -20,6 +21,7 @@ Program Manager | AI, SEO & Data Enthusiast | Building tools for efficient teams
 - **[Website Build](https://lotiqandatlas.com)**: Designed, built, optimized and launched life and travel blog with Ad monetization. 
 
 ## 📫 Let's Connect
-- Twitter @ <a href="https://x.com/brendaelazab" rel="nofollow"> brendaelazab</a> 
-- Email @ belazab@hotmail.com
+- Twitter @ <a href="https://x.com/brendaelazab" rel="nofollow"> brendaelazab</a>
+- Website @ <a href="https://bse-digital.com" rel="follow"> brendaelazab</a> 
+- Email @ contact@bse-digital.com
 
