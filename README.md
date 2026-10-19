@@ -18,7 +18,6 @@ AI, SEO & Data Enthusiast | Building tools for efficient teams.
 
 ## 🔥 Featured Projects
 - **[Product Data Visualization](https://github.com/belazab/product-data-sets)**: Scripts and data for sample AWS product inventory. 
-- **[Website Build](https://lotiqandatlas.com)**: Designed, built, optimized and launched life and travel blog with Ad monetization. 
 
 ## 📫 Let's Connect
 - Twitter @ <a href="https://x.com/brendaelazab" rel="nofollow"> brendaelazab</a>
