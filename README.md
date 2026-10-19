@@ -17,10 +17,12 @@ AI, SEO & Data Enthusiast | Building tools for efficient teams.
 ![Web Dev](https://img.shields.io/badge/Web%20Dev)
 
 ## 🔥 Featured Projects
-- **[Product Data Visualization](https://github.com/belazab/product-data-sets)**: Scripts and data for sample AWS product inventory. 
+- **[Product data visualization](https://github.com/belazab/product-data-sets)**: Scripts and data for sample AWS product inventory.
+- **[Consumer behavior dashboard]**: KPI dashboard with consumer behavior and funnel path insights. 
 
 ## 📫 Let's Connect
 - Twitter @ <a href="https://x.com/brendaelazab" rel="nofollow"> brendaelazab</a>
 - Website @ <a href="https://bse-digital.com" rel="follow"> brendaelazab</a> 
 - Email @ contact@bse-digital.com
 
+Consumer behavior dashboard added
